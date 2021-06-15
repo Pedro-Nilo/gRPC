@@ -1,0 +1,6 @@
+gRPC.Demo/gRPC.Server/obj
+gRPC.Demo/gRPC.Server/bin
+gRPC.Demo/gRPC.Client/obj
+gRPC.Demo/gRPC.Client/bin
+
+.vscode/settings.json
